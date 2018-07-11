@@ -14,30 +14,30 @@ end
 
 
 
-def fourth_student_by_index
-  puts STUDENT_NAMES[4]
-end
+# def fourth_student_by_index
+#   puts STUDENT_NAMES[4]
+# end
 
 
 
-def last_student_by_index
-  puts STUDENT_NAMES[5]
-end
+# def last_student_by_index
+#   puts STUDENT_NAMES[5]
+# end
 
 
 
 
-def first_student_by_method
-  STUDENT_NAMES.last
-end
+# def first_student_by_method
+#   STUDENT_NAMES.last
+# end
 
 
-def last_student_by_method
-  STUDENT_NAMES[5]
-end
+# def last_student_by_method
+#   STUDENT_NAMES[5]
+# end
  
- last_student_by_method.last 
+# last_student_by_method.last 
  
-def first_second_and_third_students
-  STUDENT_NAMES[0..2]
-end
+# def first_second_and_third_students
+#   STUDENT_NAMES[0..2]
+# end
